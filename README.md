@@ -2,7 +2,16 @@
 
 > A Vue.js project
 
+Task: Implement a simple component that allows one to select a list of rows that have email addresses and send them an email that is written in a simple html editor.People who receives that email can change the status of his employee from 'not agreed' to 'agreed'
+
+Tools/Techniques:
+  Front-end: Vue-cli+webpack
+  Back-end: Express, Node.js
+  Database: Mysql
+
 ## Build Setup
+
+import database.sql to Mysql
 
 ``` bash
 # install dependencies
@@ -14,8 +23,10 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+# enter server folder
+cd server
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# start server at port localhost:3000
+node index
+
+
