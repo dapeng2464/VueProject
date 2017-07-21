@@ -6,7 +6,9 @@ Task: Implement a simple component that allows one to select a list of rows that
 
 Tools/Techniques:
   Front-end: Vue-cli+webpack
+  
   Back-end: Express, Node.js
+  
   Database: Mysql
 
 ## Build Setup
