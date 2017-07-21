@@ -10,11 +10,13 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "body-parser": "^1.17.2",
     "bootstrap-vue": "^0.18.0",
     "child_process": "^1.0.2",
     "dgram": "^1.0.1",
     "dns": "^0.2.2",
     "fs": "0.0.1-security",
+    "mysql": "^2.13.0",
     "net": "^1.0.2",
     "nodemailer": "^4.0.1",
     "nodemailer-smtp-transport": "^2.7.4",
