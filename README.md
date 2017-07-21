@@ -19,11 +19,9 @@ import database.sql to Mysql
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# front end at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
 
 # enter server folder
 cd server
