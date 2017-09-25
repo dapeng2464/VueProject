@@ -1,4 +1,4 @@
-# vueclitest
+# E-Mail confirmation 
 
 > A Vue.js project
 
@@ -13,9 +13,13 @@ Tools/Techniques:
 
 ## Build Setup
 
-import database.sql to Mysql
+
 
 ``` bash
+
+#import database.sql to Mysql
+
+
 # install dependencies
 npm install
 
