@@ -1,4 +1,4 @@
-# E-Mail confirmation 
+# E-Mail Confirmation Component
 
 > A Vue.js project
 
